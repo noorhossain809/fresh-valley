@@ -1,0 +1,9 @@
+.branding_link{
+    text-decoration: none;
+    padding: 5px;
+    color: black;
+}
+.branding_link:hover{
+    background-color: lightgray;
+    border-radius: 5px;
+}
